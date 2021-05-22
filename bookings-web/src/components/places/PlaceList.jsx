@@ -6,7 +6,7 @@ import styles from '../app/styles.css'
 
 const PlaceList = ({ places }) => {
   return (
-    <div className={styles.placeList}>
+    <div aria-label="placeList" className={styles.placeList}>
       {places.map((place) => (
       <Link to={`/${place.id}`}>
       <Place key={place.id} {...place} />

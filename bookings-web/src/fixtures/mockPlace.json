@@ -1,0 +1,17 @@
+{
+    "id": "6092e208e9e24bf5b66a86bd",
+    "name": "Handcrafted Motel",
+    "slug": "handcrafted-motel",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "location": "969 Bins Drive, East Jeanetteshire, Massachusetts, 71540-6907",
+    "price_per_night": 118,
+    "image": "http://placeimg.com/1080/800/nightlife",
+    "image_thumbnail": "http://placeimg.com/400/400/nightlife",
+    "max_guests": 4,
+    "pet_friendly": false,
+    "pool": true,
+    "wifi": false,
+    "createdAt": "2021-05-05T18:20:56.023Z",
+    "updatedAt": "2021-05-05T18:20:56.023Z",
+    "__v": 0
+    }
