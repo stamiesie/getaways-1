@@ -11,12 +11,12 @@ const Getaways = () => {
   // const [totalPages, setTotalPages] = useState(0);
 
   useEffect(() => {
-    getPlaces(currentPage)
+    getPlaces()
     // .then resultSlicer(currentPage)
     .then(setPlaces)
     // .then(setTotalPages)
     .finally(() => setLoading(false));
-  }, [currentPage]);
+  }, []);
 
 
   const handleDecrementPage = () => {

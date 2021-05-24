@@ -1,11 +1,11 @@
-export const getPlaces = async (page) => {
+export const getPlaces = async () => {
   const response = await fetch(`${process.env.BASE_URL}/places`);
   if (response.ok) {
     const result = await response.json();
-    const start = (page - 1) * 10;
-    const end = start + 10;
-    const slicedResult = result.slice(start, end)
-    return slicedResult.map(
+    // const start = (page - 1) * 10;
+    // const end = start + 10;
+    // const slicedResult = result.slice(start, end)
+    return result.map(
       ({
         price_per_night,
         image_thumbnail,
