@@ -8,33 +8,34 @@ const Getaways = () => {
   const [loading, setLoading] = useState(true);
   const [places, setPlaces] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
-  const [totalPages, setTotalPages] = useState(0);
-  const [eachPage, setEachPage] = useState(10);
+  // const [totalPages, setTotalPages] = useState(0);
 
   useEffect(() => {
-    getPlaces()
+    getPlaces(currentPage)
+    // .then resultSlicer(currentPage)
     .then(setPlaces)
-    .then(setTotalPages)
+    // .then(setTotalPages)
     .finally(() => setLoading(false));
   }, [currentPage]);
 
-  // const page = Math.ceil(places.length / 10)
 
   const handleDecrementPage = () => {
     setCurrentPage((prevPage) => prevPage - 1);
+    setLoading(true);
   };
 
   const handleIncrementPage = () => {
     setCurrentPage((prevPage) => prevPage + 1);
+    setLoading(true);
   };
 
   if(loading) return <Loading />;
 
   return (
     <div>
-      <PageControls 
+      <PageControls
         currentPage={currentPage}
-        totalPages={totalPages}
+        // totalPages={totalPages}
         onDecrementPage={handleDecrementPage}
         onIncrementPage={handleIncrementPage}
         />

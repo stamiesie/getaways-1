@@ -9,13 +9,13 @@ const PageControls = ({
 }) => {
     return (
     <div>
-       <button onClick={onDecrementPage} disabled={currentPage <= 1}>
+       <button onClick={onDecrementPage} disabled={currentPage === 1}>
         Prev    
         </button> 
         <span>
-            {currentPage} / {totalPages}
+            Page {currentPage} 
         </span>
-        <button onClick={onIncrementPage} disabled={currentPage >= 1}>
+        <button onClick={onIncrementPage} disabled={currentPage === 10}>
         Next    
         </button>
 
@@ -25,7 +25,7 @@ const PageControls = ({
 
 PageControls.propTypes = {
     currentPage: PropTypes.number.isRequired,
-    totalPages: PropTypes.number.isRequired,
+    // totalPages: PropTypes.number.isRequired,
     onDecrementPage: PropTypes.func.isRequired,
     onIncrementPage: PropTypes.func.isRequired,
 
