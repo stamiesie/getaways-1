@@ -4,10 +4,11 @@ import {
   Route,
   Switch,
 } from 'react-router-dom';
-import Getaways from '../../containers/Getaways';
-import DetailGetaways from '../../containers/DetailGetaways';
-import UserRegistration from '../../containers/UserRegistration';
 import Header from '../header/Header';
+import Getaways from '../../containers/Getaways';
+import UserRegistration from '../../containers/UserRegistration';
+import LoginContainer from '../../containers/LoginContainer';
+import DetailGetaways from '../../containers/DetailGetaways';
 
 
 export default function App() {
@@ -26,12 +27,16 @@ export default function App() {
             exact
             render={(routerProps) => <UserRegistration {...routerProps} />}
           />
+           <Route
+            path="/login"
+            exact
+            render={(routerProps) => <LoginContainer {...routerProps} />}
+          />
           <Route
             path="/:id"
             exact
             render={(routerProps) => <DetailGetaways {...routerProps} />}
           />
-         
         </Switch>
       </Router>
     </div>

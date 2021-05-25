@@ -1,13 +1,13 @@
 import React, { useState } from 'react';
-import Loading from '../components/loading/Loading';
-import Registration from '../components/user/Registration';
-import { registerUser } from '../services/userApi';
+import Login from '../components/user/Login';
+import { loginUser } from '../services/userApi';
+import { putUserInLocalStorage } from '../utils/Utils';
 
-const UserRegistration = () => {
-    const [loading, setLoading] = useState(true);
+const LoginContainer = ({ history }) => {
     const [username, setUsername] = useState(''); 
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
+    const [error, setError] = useState(null);
 
     const handleChange = async ({ target }) => {
         if(target.name === 'username') setUsername(target.value);
@@ -16,20 +16,30 @@ const UserRegistration = () => {
     }
 
     const handleSubmit = async (e) => {
+        setError(null);
         e.preventDefault();
-        await registerUser(username, email, password);
+        try {
+        const user = await loginUser(username, email, password);
+        history.push("/");
+        } catch(err) {
+            console.log(err);
+            setError(err.message)
+        }
     };
 
-    // if(loading) return <Loading />;
     return (
-        <Registration 
+        <>
+        {error && <p style={{color:"red"}}>{error}</p>}
+        <Login 
             username={username}
             email={email}
             password={password}
             onChange={handleChange}
             onSubmit={handleSubmit}
-            />
+
+        />
+        </>
     );
 };
 
-export default UserRegistration;
+export default LoginContainer;

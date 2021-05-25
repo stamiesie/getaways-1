@@ -1,9 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types';
 
-function Registration ({ username, email, password, onSubmit, onChange }) {
+function Login ({ username, email, password, onSubmit, onChange }) {
     return (
         <div>
+            <h1>Login</h1>
             <form onSubmit={onSubmit}>
                 <label> Username
                     <input 
@@ -35,7 +36,7 @@ function Registration ({ username, email, password, onSubmit, onChange }) {
     )
 };
 
-Registration.propTypes = {
+Login.propTypes = {
 username: PropTypes.string.isRequired,
 email: PropTypes.string.isRequired,
 password: PropTypes.string.isRequired,
@@ -43,4 +44,4 @@ onChange: PropTypes.func.isRequired,
 onSubmit: PropTypes.func.isRequired,
 };
 
-export default Registration;
+export default Login;
