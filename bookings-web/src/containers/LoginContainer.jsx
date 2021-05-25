@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import Login from '../components/user/Login';
 import { loginUser } from '../services/userApi';
-import { putUserInLocalStorage } from '../utils/Utils';
 
 const LoginContainer = ({ history }) => {
     const [username, setUsername] = useState(''); 

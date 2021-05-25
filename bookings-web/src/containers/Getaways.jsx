@@ -19,7 +19,7 @@ const Getaways = () => {
     .finally(() => setLoading(false));
   }, [currentPage]);
 
-  console.log('current page:', currentPage);
+  // console.log('current page:', currentPage);
 
 
   const handleDecrementPage = () => {

@@ -9,7 +9,7 @@ const DetailGetaways = () => {
     const [detail, setDetail] = useState({});
     const { id } = useParams();
 
-    console.log('id', id);
+    // console.log('id', id);
 
     useEffect(() => {
         getPlacesById(id)

@@ -8,7 +8,7 @@ const PlaceList = ({ places }) => {
   return (
     <div aria-label="placeList" className={styles.placeList}>
       {places.map((place) => (
-      <Link to={`/${place.id}`}>
+      <Link key={place.id} to={`/${place.id}`}>
       <Place key={place.id} {...place} />
       </Link>
       ))}

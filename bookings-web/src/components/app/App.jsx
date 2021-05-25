@@ -8,6 +8,7 @@ import Header from '../header/Header';
 import Getaways from '../../containers/Getaways';
 import UserRegistration from '../../containers/UserRegistration';
 import LoginContainer from '../../containers/LoginContainer';
+import LogoutContainer from '../../containers/LogoutContainer';
 import DetailGetaways from '../../containers/DetailGetaways';
 
 
@@ -31,6 +32,11 @@ export default function App() {
             path="/login"
             exact
             render={(routerProps) => <LoginContainer {...routerProps} />}
+          />
+           <Route
+            path="/logout"
+            exact
+            render={(routerProps) => <LogoutContainer {...routerProps} />}
           />
           <Route
             path="/:id"

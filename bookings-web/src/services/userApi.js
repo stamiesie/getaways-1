@@ -12,7 +12,7 @@ export const registerUser = async (username, email, password) => {
     }),
     });
     const json = await res.json();
-    console.log('json', json)
+    // console.log('json', json)
     return json;
 }
 
@@ -31,6 +31,14 @@ export const loginUser = async (username, email, password) => {
     const [ ok, json ] = await Promise.all([res.ok, res.json()])
     if(!ok) throw json;
     
-    console.log('login', json)
+    // console.log('login', json)
     return json;
+}
+
+export const logoutUser = async () => {
+    const res = await fetch(`${process.env.BASE_URL}/users/logout`, {
+    method: 'GET',
+    });
+    const json = await res.json();
+    console.log('logout', json)
 }

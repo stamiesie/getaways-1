@@ -9,6 +9,9 @@ export default function Header() {
             <br/>
             <NavLink className="active" to={'/login'}>Login</NavLink>
             <br/>
+            {/* hide when no user logged in */}
+            <NavLink className="active" to={'/logout'}>Logout</NavLink>
+            <br/>
             <NavLink className="active" to={'/signup'}>Register</NavLink>
         </div>
     </header>

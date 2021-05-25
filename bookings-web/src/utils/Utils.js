@@ -4,7 +4,3 @@ export const pageCounter = (currentPage, places) => {
     const slicedResult = places.slice(start, end)
     return slicedResult;
 };
-
-export function putUserInLocalStorage(user) {
-    localStorage.setItem(USER, JSON.stringify(user));
-}
