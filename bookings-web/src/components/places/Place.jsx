@@ -1,5 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import styles from '../app/styles.css'
+
 
 const Place = ({
   name,
@@ -14,18 +16,20 @@ const Place = ({
   wifi,
 }) => {
   return (
+    <div className={styles.placeDetail}>
     <ul>
       <li>{name}</li>
       <li>{description}</li>
       <li>{location}</li>
       <li>{pricePerNight}</li>
       <li>{image}</li>
-      <li>{imageThumbnail}</li>
+      <img src={imageThumbnail} alt='destination' className={styles.placeThumbnail} />
       <li>{maxGuests}</li>
       <li>{petFriendly ? 'Pet Friendly' : 'No Pets Allowed'}</li>
       {pool ? <li>Has a Pool!</li> : null}
       {wifi ? <li>Free Wifi</li> : null}
     </ul>
+    </div>
   );
 };
 

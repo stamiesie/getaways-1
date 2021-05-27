@@ -1,0 +1,1968 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Getaways container Renders a list of getaways to the page 1`] = `
+<div
+  aria-label="placeList"
+  class="placeList"
+>
+  <a
+    href="/6092e208e9e24bf5b66a86bd"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Handcrafted Motel
+        </li>
+        <li>
+          Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals
+        </li>
+        <li>
+          969 Bins Drive, East Jeanetteshire, Massachusetts, 71540-6907
+        </li>
+        <li>
+          118
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nightlife
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nightlife"
+        />
+        <li>
+          4
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86cb"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Gorgeous Zoo
+        </li>
+        <li>
+          Carbonite web goalkeeper gloves are ergonomically designed to give easy fit
+        </li>
+        <li>
+          6117 Lesch Common, Port Rooseveltburgh, Delaware, 74313-1008
+        </li>
+        <li>
+          643
+        </li>
+        <li>
+          http://placeimg.com/1080/800
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400"
+        />
+        <li>
+          10
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86d5"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Refined Hotel
+        </li>
+        <li>
+          The Football Is Good For Training And Recreational Purposes
+        </li>
+        <li>
+          075 Nienow Mountain, Parisianland, Michigan, 68160-2366
+        </li>
+        <li>
+          293
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          16
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86d6"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Sleek Motel
+        </li>
+        <li>
+          Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support
+        </li>
+        <li>
+          95781 Heller Loaf, Londonburgh, Alaska, 34969-9053
+        </li>
+        <li>
+          696
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nightlife
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nightlife"
+        />
+        <li>
+          6
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86c2"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Gorgeous Suites
+        </li>
+        <li>
+          New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016
+        </li>
+        <li>
+          96144 Frami Corner, Clovis, Texas, 53871
+        </li>
+        <li>
+          470
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nightlife
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nightlife"
+        />
+        <li>
+          8
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86c1"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Small Motel
+        </li>
+        <li>
+          New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016
+        </li>
+        <li>
+          95814 Sally Extensions, Lake Elsinore, South Carolina, 34892
+        </li>
+        <li>
+          489
+        </li>
+        <li>
+          http://placeimg.com/1080/800
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400"
+        />
+        <li>
+          22
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86c9"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Refined Park
+        </li>
+        <li>
+          New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016
+        </li>
+        <li>
+          9672 Jose Ramp, Lake Lacy, Colorado, 87937
+        </li>
+        <li>
+          592
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nightlife
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nightlife"
+        />
+        <li>
+          11
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86d2"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Rustic Inn
+        </li>
+        <li>
+          Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles
+        </li>
+        <li>
+          066 Reilly Turnpike, South Chandlerview, Arkansas, 98921-4101
+        </li>
+        <li>
+          242
+        </li>
+        <li>
+          http://placeimg.com/1080/800
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400"
+        />
+        <li>
+          12
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86e2"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Incredible Express
+        </li>
+        <li>
+          New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016
+        </li>
+        <li>
+          2617 Kub Passage, Richland, Michigan, 34323-6062
+        </li>
+        <li>
+          536
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nightlife
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nightlife"
+        />
+        <li>
+          7
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86bf"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Intelligent Zoo
+        </li>
+        <li>
+          The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive
+        </li>
+        <li>
+          14360 Zulauf Shore, Murrieta, Wisconsin, 44410-3765
+        </li>
+        <li>
+          694
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          10
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86c4"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Handmade Express
+        </li>
+        <li>
+          The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality
+        </li>
+        <li>
+          8322 Kobe Ramp, Shaynachester, Arizona, 09675-2240
+        </li>
+        <li>
+          698
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nightlife
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nightlife"
+        />
+        <li>
+          5
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86d4"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Awesome Hotel
+        </li>
+        <li>
+          Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support
+        </li>
+        <li>
+          21325 Emilie Wall, Greenfelderfurt, Texas, 33305
+        </li>
+        <li>
+          627
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nightlife
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nightlife"
+        />
+        <li>
+          15
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86c7"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Handmade Zoo
+        </li>
+        <li>
+          Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles
+        </li>
+        <li>
+          891 Blick Spring, Johnsstad, Minnesota, 07207
+        </li>
+        <li>
+          211
+        </li>
+        <li>
+          http://placeimg.com/1080/800
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400"
+        />
+        <li>
+          21
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e1d88cb048f1d3300bda"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Gorgeous Inn
+        </li>
+        <li>
+          New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart
+        </li>
+        <li>
+          48830 Elijah Forge, Milanport, South Carolina, 29153
+        </li>
+        <li>
+          206
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nightlife
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nightlife"
+        />
+        <li>
+          15
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e1d88cb048f1d3300bdc"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Unbranded Motel
+        </li>
+        <li>
+          New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart
+        </li>
+        <li>
+          43717 Kris Neck, Fort Collins, Indiana, 10029-4317
+        </li>
+        <li>
+          588
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nightlife
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nightlife"
+        />
+        <li>
+          4
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86bc"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Incredible Hotel
+        </li>
+        <li>
+          Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals
+        </li>
+        <li>
+          0288 Brianne Land, Harlingen, Massachusetts, 19884-7832
+        </li>
+        <li>
+          654
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          9
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86c8"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Practical Express
+        </li>
+        <li>
+          The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive
+        </li>
+        <li>
+          2181 Jamal Ridge, Wiegandside, Texas, 52486
+        </li>
+        <li>
+          76
+        </li>
+        <li>
+          http://placeimg.com/1080/800
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400"
+        />
+        <li>
+          2
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86d3"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Ergonomic Inn
+        </li>
+        <li>
+          The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients
+        </li>
+        <li>
+          536 William Freeway, Anissabury, Massachusetts, 41193-1337
+        </li>
+        <li>
+          363
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          3
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86e3"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Small Hotel
+        </li>
+        <li>
+          Carbonite web goalkeeper gloves are ergonomically designed to give easy fit
+        </li>
+        <li>
+          8553 Eloy Hollow, North Blairport, Louisiana, 93638-6384
+        </li>
+        <li>
+          588
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          10
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86da"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Licensed Park
+        </li>
+        <li>
+          New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016
+        </li>
+        <li>
+          9286 Kuhn Cove, Willmsborough, New York, 66989
+        </li>
+        <li>
+          656
+        </li>
+        <li>
+          http://placeimg.com/1080/800
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400"
+        />
+        <li>
+          24
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86b9"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Gorgeous Zoo
+        </li>
+        <li>
+          The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients
+        </li>
+        <li>
+          0035 Beer Place, Pearl City, North Dakota, 13949
+        </li>
+        <li>
+          590
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          15
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86bb"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Small Inn
+        </li>
+        <li>
+          The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design
+        </li>
+        <li>
+          17049 Seamus Landing, Auerville, North Dakota, 72886
+        </li>
+        <li>
+          242
+        </li>
+        <li>
+          http://placeimg.com/1080/800
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400"
+        />
+        <li>
+          9
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86be"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Handmade Zoo
+        </li>
+        <li>
+          The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality
+        </li>
+        <li>
+          61534 Miller Extensions, Hillsfurt, Delaware, 84534-5651
+        </li>
+        <li>
+          543
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          20
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86cc"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Incredible Motel
+        </li>
+        <li>
+          The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive
+        </li>
+        <li>
+          210 Jazmyne Trafficway, Mertieburgh, Wyoming, 40635
+        </li>
+        <li>
+          109
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nightlife
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nightlife"
+        />
+        <li>
+          17
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86cd"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Incredible Express
+        </li>
+        <li>
+          The Football Is Good For Training And Recreational Purposes
+        </li>
+        <li>
+          571 Jerrold Key, Port Rorytown, Virginia, 48326-6988
+        </li>
+        <li>
+          582
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nightlife
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nightlife"
+        />
+        <li>
+          6
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86df"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Tasty Suites
+        </li>
+        <li>
+          Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support
+        </li>
+        <li>
+          050 Osinski Square, Brakusport, Washington, 45723-4945
+        </li>
+        <li>
+          497
+        </li>
+        <li>
+          http://placeimg.com/1080/800
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400"
+        />
+        <li>
+          21
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86e4"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Incredible Zoo
+        </li>
+        <li>
+          Carbonite web goalkeeper gloves are ergonomically designed to give easy fit
+        </li>
+        <li>
+          0012 Lang Curve, North Elmerville, Oklahoma, 25930
+        </li>
+        <li>
+          296
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nightlife
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nightlife"
+        />
+        <li>
+          13
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86c6"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Intelligent Park
+        </li>
+        <li>
+          Carbonite web goalkeeper gloves are ergonomically designed to give easy fit
+        </li>
+        <li>
+          502 Eugenia Route, Lake Jayde, West Virginia, 60332-5889
+        </li>
+        <li>
+          289
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          8
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86ba"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Intelligent Inn
+        </li>
+        <li>
+          New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016
+        </li>
+        <li>
+          0960 Hartmann Flat, Eden Prairie, Indiana, 78982
+        </li>
+        <li>
+          659
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          8
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86d1"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Fantastic Park
+        </li>
+        <li>
+          The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive
+        </li>
+        <li>
+          72794 Eldon Vista, South Gate, California, 63027
+        </li>
+        <li>
+          236
+        </li>
+        <li>
+          http://placeimg.com/1080/800
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400"
+        />
+        <li>
+          16
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e1d88cb048f1d3300bd9"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Fantastic Park
+        </li>
+        <li>
+          The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality
+        </li>
+        <li>
+          68535 Tyrel Inlet, Davismouth, Georgia, 29036
+        </li>
+        <li>
+          229
+        </li>
+        <li>
+          http://placeimg.com/1080/800
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400"
+        />
+        <li>
+          21
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e1d88cb048f1d3300bdb"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Practical Inn
+        </li>
+        <li>
+          Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals
+        </li>
+        <li>
+          0854 Mayert Cove, North Emie, Arkansas, 86121
+        </li>
+        <li>
+          545
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          24
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86c5"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Sleek Inn
+        </li>
+        <li>
+          The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J
+        </li>
+        <li>
+          2135 Sauer Junction, Bartlett, Nevada, 21155-9409
+        </li>
+        <li>
+          269
+        </li>
+        <li>
+          http://placeimg.com/1080/800
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400"
+        />
+        <li>
+          24
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86c3"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Handmade Suites
+        </li>
+        <li>
+          Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals
+        </li>
+        <li>
+          7757 Padberg Ford, South Loriton, Louisiana, 23724-1630
+        </li>
+        <li>
+          334
+        </li>
+        <li>
+          http://placeimg.com/1080/800
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400"
+        />
+        <li>
+          13
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86cf"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Practical Suites
+        </li>
+        <li>
+          The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design
+        </li>
+        <li>
+          960 Mark Trace, Laredo, Colorado, 90528-0882
+        </li>
+        <li>
+          217
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nightlife
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nightlife"
+        />
+        <li>
+          6
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86d7"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Intelligent Zoo
+        </li>
+        <li>
+          New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart
+        </li>
+        <li>
+          63261 Alanis Fort, New Jessy, North Carolina, 23399-4640
+        </li>
+        <li>
+          467
+        </li>
+        <li>
+          http://placeimg.com/1080/800
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400"
+        />
+        <li>
+          18
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e1d88cb048f1d3300bdd"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Ergonomic Zoo
+        </li>
+        <li>
+          Carbonite web goalkeeper gloves are ergonomically designed to give easy fit
+        </li>
+        <li>
+          4739 Kirlin Inlet, South Ernesto, Nebraska, 09771
+        </li>
+        <li>
+          624
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nightlife
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nightlife"
+        />
+        <li>
+          4
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86c0"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Handmade Park
+        </li>
+        <li>
+          The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design
+        </li>
+        <li>
+          00188 Ottis Estates, Leopoldoland, North Carolina, 63657
+        </li>
+        <li>
+          531
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nightlife
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nightlife"
+        />
+        <li>
+          16
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86d8"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Fantastic Express
+        </li>
+        <li>
+          The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive
+        </li>
+        <li>
+          203 Spencer Harbor, Lake Adaline, Utah, 17670-9917
+        </li>
+        <li>
+          96
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          3
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86de"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Small Zoo
+        </li>
+        <li>
+          Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles
+        </li>
+        <li>
+          198 D'Amore Common, Grand Prairie, Texas, 99897
+        </li>
+        <li>
+          676
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          10
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86ca"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Unbranded Motel
+        </li>
+        <li>
+          The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J
+        </li>
+        <li>
+          10882 Mathew Green, Prosaccoport, Hawaii, 93730-0489
+        </li>
+        <li>
+          445
+        </li>
+        <li>
+          http://placeimg.com/1080/800
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400"
+        />
+        <li>
+          17
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86d9"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Intelligent Hotel
+        </li>
+        <li>
+          The Football Is Good For Training And Recreational Purposes
+        </li>
+        <li>
+          3978 Mayert Mountains, East Kellenshire, Ohio, 49843-3078
+        </li>
+        <li>
+          698
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          7
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86dc"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Sleek Suites
+        </li>
+        <li>
+          Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support
+        </li>
+        <li>
+          77410 Legros Run, Jackson, Montana, 56884-8327
+        </li>
+        <li>
+          667
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          4
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86e0"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Tasty Hotel
+        </li>
+        <li>
+          Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support
+        </li>
+        <li>
+          427 Reinger Garden, Bartonland, Maryland, 56255-6879
+        </li>
+        <li>
+          299
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          20
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86e5"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Generic Park
+        </li>
+        <li>
+          Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals
+        </li>
+        <li>
+          6714 Koepp Rue, Jaidachester, Kentucky, 26578
+        </li>
+        <li>
+          91
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          25
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86dd"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Practical Suites
+        </li>
+        <li>
+          Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support
+        </li>
+        <li>
+          1897 Kuphal Points, Lake Alexanneberg, New York, 16792
+        </li>
+        <li>
+          666
+        </li>
+        <li>
+          http://placeimg.com/1080/800
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400"
+        />
+        <li>
+          13
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86e1"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Unbranded Express
+        </li>
+        <li>
+          Carbonite web goalkeeper gloves are ergonomically designed to give easy fit
+        </li>
+        <li>
+          852 Verna Land, Goldnermouth, Colorado, 72343
+        </li>
+        <li>
+          387
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          5
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86d0"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Practical Suites
+        </li>
+        <li>
+          The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design
+        </li>
+        <li>
+          10546 Jaquan Rest, West Shanon, South Carolina, 35257
+        </li>
+        <li>
+          530
+        </li>
+        <li>
+          http://placeimg.com/1080/800
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400"
+        />
+        <li>
+          2
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+        <li>
+          Has a Pool!
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86db"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Refined Zoo
+        </li>
+        <li>
+          New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart
+        </li>
+        <li>
+          454 Koss Common, Ariport, Nevada, 28684
+        </li>
+        <li>
+          92
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          18
+        </li>
+        <li>
+          Pet Friendly
+        </li>
+      </ul>
+    </div>
+  </a>
+  <a
+    href="/6092e208e9e24bf5b66a86ce"
+  >
+    <div
+      class="placeDetail"
+    >
+      <ul>
+        <li>
+          Incredible Express
+        </li>
+        <li>
+          The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J
+        </li>
+        <li>
+          1588 Stokes Road, Medaville, Massachusetts, 99898-0256
+        </li>
+        <li>
+          497
+        </li>
+        <li>
+          http://placeimg.com/1080/800/nature
+        </li>
+        <img
+          alt="destination"
+          class="placeThumbnail"
+          src="http://placeimg.com/400/400/nature"
+        />
+        <li>
+          4
+        </li>
+        <li>
+          No Pets Allowed
+        </li>
+        <li>
+          Free Wifi
+        </li>
+      </ul>
+    </div>
+  </a>
+</div>
+`;

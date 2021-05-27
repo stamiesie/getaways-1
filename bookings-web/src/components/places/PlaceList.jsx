@@ -1,9 +1,19 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Place from './Place';
+import { Link } from 'react-router-dom';
+import styles from '../app/styles.css'
 
 const PlaceList = ({ places }) => {
-  return places.map((place) => <Place key={place.id} {...place} />);
+  return (
+    <div aria-label="placeList" className={styles.placeList}>
+      {places.map((place) => (
+      <Link key={place.id} to={`/${place.id}`}>
+      <Place key={place.id} {...place} />
+      </Link>
+      ))}
+  </div>
+  )
 };
 
 PlaceList.propTypes = {
