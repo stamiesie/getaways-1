@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Logout from '../components/user/Logout';
 import { logoutUser } from '../services/userApi';
 
-const LogoutContainer = () => {
+const LogoutContainer = ({ history }) => {
     const [message, setMessage] = useState(null);
 
     const handleClick = async () => {
@@ -11,6 +11,7 @@ const LogoutContainer = () => {
        
         // setMessage(json);
         console.log(user);
+        history.push("/");
     };
 
     return (

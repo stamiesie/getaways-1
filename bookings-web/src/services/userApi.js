@@ -46,3 +46,20 @@ export const logoutUser = async () => {
     console.log('logout', json)
     // return json;
 }
+
+export const editUser = async (id) => {
+    const res = await fetch(`${process.env.BASE_URL}/users/${id}`, {
+    method: 'PUT',
+    headers: {
+        'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+        username: username,
+        email: email,
+        password: password, 
+    }),
+    });
+    const json = await res.json();
+    console.log('PUT', json)
+    // return json;
+}

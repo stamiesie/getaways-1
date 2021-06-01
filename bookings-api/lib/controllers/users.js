@@ -56,4 +56,15 @@ module.exports = Router()
     } catch (err) {
       next(err);
     }
-  });
+    
+  })
+
+  .put('/:id', async (req, res, next) => {
+    const user = await User.findOneAndUpdate({ 
+      _id: req.params.id,
+      email: req.body.email,
+      password: req.body.password});
+
+      // res.send(user);
+  }
+  )
