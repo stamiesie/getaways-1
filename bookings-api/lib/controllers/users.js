@@ -10,6 +10,12 @@ module.exports = Router()
     const password = bcrypt.hashSync(req.body.password, 10);
 
     try {
+      const checkUsername = await User.findOne({
+        username: req.body.username,
+      })
+      console.log('!!!!!', checkUsername);
+      if(checkUsername)
+      throw new Error('User already exists');
       const user = await User.create({
         username: req.body.username,
         email: req.body.email,
@@ -50,4 +56,15 @@ module.exports = Router()
     } catch (err) {
       next(err);
     }
-  });
+    
+  })
+
+  .put('/:id', async (req, res, next) => {
+    const user = await User.findOneAndUpdate({ 
+      _id: req.params.id,
+      email: req.body.email,
+      password: req.body.password});
+
+      // res.send(user);
+  }
+  )
