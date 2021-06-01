@@ -41,6 +41,9 @@ schema.statics.authorize = async function ({ email, password }) {
   if (!bcrypt.compareSync(password, user.password))
     throw new Error('Invalid Password');
 
+  if (!bcrypt.compareSync(username, user.username))
+    throw new Error('User already exists');
+
   // create jwt
   const token = jwt.sign(user.toJSON(), process.env.JWT_SECRET, {
     expiresIn: '24h',

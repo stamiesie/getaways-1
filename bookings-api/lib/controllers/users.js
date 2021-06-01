@@ -10,6 +10,12 @@ module.exports = Router()
     const password = bcrypt.hashSync(req.body.password, 10);
 
     try {
+      const checkUsername = await User.findOne({
+        username: req.body.username,
+      })
+      console.log('!!!!!', checkUsername);
+      if(checkUsername)
+      throw new Error('User already exists');
       const user = await User.create({
         username: req.body.username,
         email: req.body.email,

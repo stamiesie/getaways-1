@@ -29,14 +29,13 @@ const LoginContainer = ({ history }) => {
     return (
         <>
         {error && <p style={{color:"red"}}>{error}</p>}
-        <Login 
-            username={username}
-            email={email}
-            password={password}
-            onChange={handleChange}
-            onSubmit={handleSubmit}
-
-        />
+            <Login 
+                username={username}
+                email={email}
+                password={password}
+                onChange={handleChange}
+                onSubmit={handleSubmit}
+                />
         </>
     );
 };

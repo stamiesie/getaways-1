@@ -12,7 +12,7 @@ function Registration ({ username, email, password, onSubmit, onChange }) {
                     name="username"
                     value={username}
                     onChange={onChange}
-                    />
+                    required/>
                     </label>
                 <label> Email
                     <input 
@@ -20,7 +20,7 @@ function Registration ({ username, email, password, onSubmit, onChange }) {
                     name="email"
                     value={email}
                     onChange={onChange}
-                    />
+                    required/>
                     </label>
                 <label> Password
                     <input 
@@ -28,7 +28,7 @@ function Registration ({ username, email, password, onSubmit, onChange }) {
                     name="password"
                     value={password}
                     onChange={onChange}
-                    />
+                    required/>
                 </label>
                 <button>Submit</button>
             </form>
